@@ -1,3 +1,4 @@
+#Densenet imported from  https://github.com/bearpaw/pytorch-classification/blob/master/models/cifar/densenet.py
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
